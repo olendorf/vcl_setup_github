@@ -1,0 +1,11 @@
+# The github username 
+github_username: olendorf          
+# The name of the githug repository to be cloned.
+repository_name: coop_evolve         
+
+# Github allows using ssh or http for a uri protocol.
+# If you are using 2 factor authentication you will 
+# need to use ssh and have ssh keys set up. 
+# https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+# The ssh keys should be in a directory .ssh in your afs directory structure.
+protocol: ssh       
